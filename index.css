@@ -1,8 +1,9 @@
 body{
-    background-image: url("https://i.pinimg.com/736x/af/d3/cf/afd3cfd14bbe4bad45bb64325e9c0fea.jpg");
+    background-image: url("https://i.pinimg.com/736x/88/7f/18/887f18dd2e7ec7e80c1d13b98ffa77b1.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
+    background-size: cover;
 }
 .jersey-10-regular {
     font-family: "Jersey 10", sans-serif;
